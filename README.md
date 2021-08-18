@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frederico-F-Martins
+- 👋 Hi, I’m **@Frederico-F-Martins**
 
 A :computer: Computational Chemistry :boom: PhD student interested in making people's lifes better & more comfortable.
 
