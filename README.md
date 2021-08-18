@@ -1,10 +1,10 @@
 - 👋 Hi, I’m **@Frederico-F-Martins**
 
-A :computer: Computational Chemistry :boom: PhD student interested in making people's lifes better & more comfortable.
+     A :computer: Computational Chemistry :boom: PhD student interested in making people's lifes better & more comfortable.
 
 - 🌱 Currently a novice, so would appreciate any tips & tricks.
 
-I’m looking to collaborate on all things chemistry and coding :bowtie:
+     I’m looking to collaborate on all things chemistry and coding :bowtie:
 
 - 📫 You can reach me at fred.martins94@gmail.com
 
