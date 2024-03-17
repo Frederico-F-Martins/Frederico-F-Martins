@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Frederico-F-Martins**
 
-     A :computer: Computational Chemistry :boom: Postdoc interested in making people's lifes better & more comfortable.
+     A Computational Chemist who enjoys writing some code.
 
 - 🌱 Coding is my part-time job, so feedback is appreciated.
 
